@@ -1,0 +1,21 @@
+
+body {
+  background-image: url(rose1.4.gif), url(background1.4.jpeg); /* 1 mark */
+  background-position: right top, left top;  /* 1 mark */
+  background-repeat: no-repeat, repeat;  /* 1 mark */
+  padding: 5px;  /* 1/2 mark */
+}
+
+#borderimg { 
+  border: 10px solid transparent;  /* 1 mark */
+  padding: 15px;  /* 1/2 mark */
+  border-image: url(border1.4.png) 30 round;  /* 1 mark */
+  text-align: center;  /* 1/2 mark */
+  text-shadow: 2px 2px 4px #009800; /* 1 mark */
+  
+}
+
+#box-shadow{
+  box-shadow: 8px 8px 8px rgb(0, 0, 0); /* 1 mark */
+  border-radius: 10px;/* 1/2 mark */
+}
